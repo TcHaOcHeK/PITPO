@@ -80,7 +80,7 @@ function processInput() {
             }
         }
 
-        число эрдеша проверяем соседей
+        //число эрдеша проверяем соседей
         const queue = [];
         erdosNumbers.set('Erdos, P.', 0);
         queue.push('Erdos, P.');
